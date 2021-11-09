@@ -1,0 +1,23 @@
+{
+  "name": "node.js-api",
+  "version": "1.0.0",
+  "description": "Full Stack app written in node.js and deployed to cloud",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomasknashville/node.js-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomasknashville/node.js-api/issues"
+  },
+  "homepage": "https://github.com/thomasknashville/node.js-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
